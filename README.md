@@ -41,5 +41,4 @@ The project uses four tables:
 
 ## Files
 - Anytime Fitness Sql.sql: full SQL script
-- outputs/: CSV exports for each query result
-- query_outputs.md: readable output tables for GitHub
+- charts and data.pdf
