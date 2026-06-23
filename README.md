@@ -1,6 +1,6 @@
 # sql-gym-membership-analysis
 
-##Project Overview
+## Project Overview
 In this personal project I analyzed a simulated gym memembership dataset modeled after the Anytime Fitness-style membership business in Lacey Township, NJ. The database tracks membership plans, customers, referrals, active/churned memberships, monthly dues, failed payments, and customer-level revenue.
 
 ## Database Design
@@ -40,6 +40,6 @@ The project uses four tables:
 - Failed payment rates were highest in months where the sample had fewer total billings or multiple failed payments.
 
 ## Files
-- gym_membership_analysis.sql: full SQL script
+- Anytime Fitness Sql.sql: full SQL script
 - outputs/: CSV exports for each query result
 - query_outputs.md: readable output tables for GitHub
